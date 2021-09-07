@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @druz3
-- 👀 I’m interested in rust
 - 🌱 I’m currently learning rust
 
 <!---
