@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @druz3
-- 🌱 I’m currently learning rust
 
 <!---
 druz3/druz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
