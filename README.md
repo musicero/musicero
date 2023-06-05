@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @druz3
+- 👋 Hi, I’m Oliver, your average ThinkPad user
+- Currently learning Rust, C++, C, Python and Lua.
+- Interested in collaborating on unix stuff
+
 
 <!---
 druz3/druz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
