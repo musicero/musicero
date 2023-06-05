@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oliver, your average ThinkPad user
-- eyes Currently learning Rust, C++, C, Python and Lua.
+- :eyes Currently learning Rust, C++, C, Python and Lua.
 - Interested in collaborating on unix stuff
 
 
