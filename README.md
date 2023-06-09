@@ -6,6 +6,7 @@
 - 🧠 Languages I know:
   - HTML, CSS, JS
   - Python
-  - Basic C and C++
+  - Intermediate C and C++
+  - 5% Rust :)
   - Bash Script
 
