@@ -7,5 +7,7 @@
   - HTML, CSS, JS, NodeJS
   - Python
   - Intermediate C and C++
-  - Rust
+  - Rust, Haskell
+  - OpenGL
+  - Go
 
